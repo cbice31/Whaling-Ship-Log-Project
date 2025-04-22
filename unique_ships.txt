@@ -1,0 +1,157 @@
+Lucas: 175
+Maine: 33
+BK Platina: 32
+Milton: 30
+Liverpool New Bedford: 21
+BK Islander: 20
+The Uncas: 18
+Pacific: 18
+Alpha: 16
+London Packet: 16
+China: 15
+Logan: 14
+Cherokee: 14
+The Spartan: 13
+BK Maine: 13
+Liverpool: 13
+Elizabeth: 12
+Kathleen: 12
+The Iris: 12
+Narragansett: 12
+Mercury New Bedford: 11
+Mercator: 11
+The Nickerson: 11
+Alfred New Bedford: 11
+Lucas Cicero: 11
+Two: 11
+Phoenix: 10
+The Holmes: 10
+BK Derwent Hunter: 10
+Congress: 10
+Gay Head: 10
+Falcon: 10
+Petrel: 10
+The Christopher Mitchel: 10
+Alexander Coffin: 10
+Zephyr: 9
+Lady Blackwood: 9
+The Ganges: 9
+Hope: 9
+Edward New Bedford: 9
+The Benj Tucker: 9
+Milwood New Bedford: 9
+Origon: 9
+Griffin: 9
+Lima: 8
+Selma: 8
+Wanderer: 8
+Morning Star: 8
+Elizabeth London: 8
+Noble: 8
+Platina: 8
+Solon Mattapoisett: 8
+Otranto: 8
+Friendship: 8
+Cortes: 8
+Millwood: 8
+Mariner: 8
+Parker Cook Provincetown: 7
+Florida: 7
+Phocion: 7
+Barque Kathleen: 7
+Hope New Bedford: 7
+Waverly New Bedford: 7
+Herald: 7
+Rose: 7
+Simmons: 7
+Columbus: 7
+Andrew Hicks: 7
+Draper: 7
+Warsaw New London: 7
+The Antarctic: 7
+Braganza New Bedford: 7
+Canton Packet: 7
+Louisa: 6
+Palladium: 6
+Three: 6
+Congress New Bedford: 6
+The Mountain Spring: 6
+Champion New Bedford: 6
+Canada New Bedford: 6
+Cicero New Bedford: 6
+Harriet Freetown: 6
+Gem Provincetown: 6
+Marcella: 6
+Commodore Rogers: 6
+Omega Nantucket: 6
+New Bedford: 6
+Marsella: 6
+SW: 6
+BK Andrew Hicks: 6
+Hector: 6
+Boston: 6
+London Packet New Bedford: 6
+Lucas Gold Hunter: 6
+Commodore Rodgers: 6
+Millwood New Bedford: 6
+Carter: 6
+Caroline London: 6
+Minerva New Bedford: 6
+Water Witch London: 6
+Constitution Nantucket: 6
+Stafford: 6
+The Ionia: 6
+Izette Salem: 5
+Hydaspe: 5
+Miles Warren: 5
+Scotland Nantucket: 5
+Lalla Rookh New Bedford: 5
+Averick: 5
+NE: 5
+Rajah Westport: 5
+President: 5
+Ganges Nantucket: 5
+Gold Hunter: 5
+The New England: 5
+Alabama Nantucket: 5
+NW: 5
+The Elizabeth: 5
+Metacom New Bedford: 5
+Barque Emma: 5
+Tobacco Plant: 5
+Sparks: 5
+The Gypsy: 5
+Euphrates New Bedford: 5
+Planter Nantucket: 5
+Marcus Fairhaven: 5
+Canton New Bedford: 5
+Golconda New Bedford: 5
+Zenas Coffin: 5
+Ganges Bristol: 5
+Armata New London: 5
+Pantheon: 5
+Newton New Bedford: 5
+Congress Nantucket: 5
+Attleboro: 5
+Desdamonia: 5
+Milwood: 5
+Midas New Bedford: 5
+AR Tucker: 5
+Mercury: 5
+Acasta: 5
+Japan Nantucket: 5
+Cherokee New Bedford: 5
+Lucretia: 5
+Huntress New Bedford: 5
+The America: 5
+Brunette: 5
+Janus: 5
+Lewis Bruce Provincetown: 5
+The City New Bedford: 5
+The Ganges Nantucket: 5
+Milton New Bedford: 5
+Jane Howes Provincetown: 5
+The Roseo: 5
+Louisa Provincetown: 5
+Napoleon Nantucket: 5
+Rousseau New Bedford: 5
